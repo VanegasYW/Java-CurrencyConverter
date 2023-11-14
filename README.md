@@ -11,3 +11,5 @@ This is a simple currency converter that allows users to convert between some cu
 - KRW - South Korean Won
 
 Note: The exchange rates used in this program are predefined.
+
+### [🛠 Stack Used](techstack.md)
